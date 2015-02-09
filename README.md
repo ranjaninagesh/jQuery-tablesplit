@@ -9,7 +9,7 @@
   First, get a copy of the git repo by running:
 
     git clone https://github.com/ranjaninagesh/jQuery-tablesplit.git
-    </div>
+ </div>
   <h1> Example Usage </h1>
  <pre> 
 <table id='testTable'>
