@@ -5,18 +5,20 @@
  <h1>Requires</h1>
  jQuery > 1.4
  </div>
- <div>
+ <ul>
+ <li>
   First, get a copy of the git repo by running:
 
     git clone https://github.com/ranjaninagesh/jQuery-tablesplit.git
- </div>
- <div>
+ </li>
+ <li>
   Add the jquery-tablesplit.js to your javascripts folder.
- </div>
- <div>
+ </li>
+ <li>
    Inculde it in your page.
-   < <span> script type='text/javascript' src="jquery-tablesplit.js"/ </span> >
- </div>
+    <div> < <span> script type='text/javascript' src="jquery-tablesplit.js"/ </span> > </div>
+ </li>
+ </ul>
   <h1> Example Usage </h1>
  <pre> 
 <table id='testTable'>
