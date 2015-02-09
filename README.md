@@ -87,6 +87,6 @@ jQuery("#testTable").tableSplit();
 
 By default the table is splitted after if it exceeds 15 columns. You can change the same as shown below.
 
-jQuery("#testTable").tableSplit(noOfColumns:4);
+jQuery("#testTable").tableSplit({noOfColumns:4});
 </body>
 </html>
