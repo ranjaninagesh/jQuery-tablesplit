@@ -27,7 +27,7 @@
 < html >
 < head >
 < script src="http://code.jquery.com/jquery-1.11.1.min.js"></script >
-< script src="jquery.tablesplit.js"></script >
+< script src="jquery-tablesplit.js"></script >
 < /head >
 < body >
 < table id='testTable' >
