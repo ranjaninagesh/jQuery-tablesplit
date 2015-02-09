@@ -8,7 +8,7 @@
  <div>
   First, get a copy of the git repo by running:
 
-    git clone git://github.com/jquery/jquery-tablesplit.git
+    git clone https://github.com/ranjaninagesh/jQuery-tablesplit.git
     </div>
   <h1> Example Usage </h1>
  <pre> 
