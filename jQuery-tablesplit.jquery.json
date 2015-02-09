@@ -1,0 +1,28 @@
+{
+  "name": "tablesplit",
+  "title": "jQuery tablesplit",
+  "description": "A plugin to divide large column tables",
+  "keywords": [
+    "jquery",
+    "tablesplit",
+    "plugins"
+  ],
+  "version": "0.1.0",
+  "author": {
+    "name": "Ranjani Nagesh",
+    "url": "https://github.com/ranjaninagesh"
+  },
+  
+  "licenses": [
+    {
+      "type": "LICENSE",
+      "url": "https://github.com/ranjaninagesh/jQuery-tablesplit/blob/master/LICENSE.txt"
+    }
+  ],
+  "bugs": "https://github.com/ranjaninagesh/jQuery-tablesplit/tablesplit/issues",
+  "docs": "https://github.com/ranjaninagesh/jQuery-tablesplit/tablesplit#readme",
+  "download": "https://github.com/ranjaninagesh/jQuery-tablesplit/master.zip",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
