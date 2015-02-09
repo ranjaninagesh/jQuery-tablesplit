@@ -10,6 +10,13 @@
 
     git clone https://github.com/ranjaninagesh/jQuery-tablesplit.git
  </div>
+ <div>
+  Add the jquery-tablesplit.js to your javascripts folder.
+ </div>
+ <div>
+   Inculde it in your page.
+   < <span> script type='text/javascript' src="jquery-tablesplit.js"/ </span> >
+ </div>
   <h1> Example Usage </h1>
  <pre> 
 <table id='testTable'>
