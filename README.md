@@ -1,16 +1,4 @@
  <html>
- <head>
- <style>
- h1{
- font-size: 1.25em;
- font-weight: bold;
- }
- h2{
- font-size: 1.0em;
- font-weight: bold;
- }
- </style>
- </head>
  <body>
 <h1> jQuery TableSplit </h1>
 <div>
