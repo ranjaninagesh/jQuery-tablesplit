@@ -66,7 +66,7 @@ jQuery("#yourTableId").tableSplit();
 </pre>
 <h2>Options:</h2>
 
-By default the table is splitted after if it exceeds 15 columns. You can change the same as shown below.
+By default the table is splitted after 15 columns. You can change the same as shown below.
 
 jQuery("#testTable").tableSplit({noOfColumns:2});
 
