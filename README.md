@@ -77,7 +77,7 @@ jQuery("#yourTableId").tableSplit();
 
 By default the table is splitted after 15 columns. You can change the same as shown below.
 
-jQuery("#testTable").tableSplit({noOfColumns:2});
+jQuery("#yourTableID").tableSplit({noOfColumns:2});
 
 <h1> Result </h1>
 
@@ -141,6 +141,11 @@ jQuery("#testTable").tableSplit({noOfColumns:2});
 		</tr>
 	</tbody>
 </table>
+
+<h1> Example Practical Usage</h1>
+
+When we print large tables with many columns it tends to cut off columns at the end. We can use this plugin to print the columns which cuts off into another page without changing the code for the table.
+
 
 </body>
 </html>
